@@ -1,9 +1,9 @@
 const cacheName = "Amanda Windsor-POOP The Party-1.1";
 const contentToCache = [
-    "Build/New folder.loader.js",
-    "Build/New folder.framework.js.unityweb",
-    "Build/New folder.data.unityweb",
-    "Build/New folder.wasm.unityweb",
+    "Build/webglptpV2.loader.js",
+    "Build/webglptpV2.framework.js.unityweb",
+    "Build/webglptpV2.data.unityweb",
+    "Build/webglptpV2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
